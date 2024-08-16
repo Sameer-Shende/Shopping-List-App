@@ -45,7 +45,3 @@ A Shopping List Application developed using Kotlin and Jetpack Compose, featurin
 - Google Maps API
 - MVVM Architecture
 - RESTful APIs
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
